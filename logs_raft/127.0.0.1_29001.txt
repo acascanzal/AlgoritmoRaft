@@ -1,0 +1,394 @@
+127.0.0.1_29001 -> 10:08:38.130375 raft.go:189: logger initialized
+127.0.0.1_29001 -> 10:08:38.130627 raft.go:608: Soy follower
+127.0.0.1_29001 -> 10:08:38.414173 raft.go:620: Soy un candidate
+127.0.0.1_29001 -> 10:08:38.414219 raft.go:387: Enviando peticion de voto a nodo  1  con mandato  1  y entries  -1   0
+127.0.0.1_29001 -> 10:08:38.414244 raft.go:387: Enviando peticion de voto a nodo  2  con mandato  1  y entries  -1   0
+127.0.0.1_29001 -> 10:08:38.903529 raft.go:620: Soy un candidate
+127.0.0.1_29001 -> 10:08:38.903573 raft.go:387: Enviando peticion de voto a nodo  1  con mandato  2  y entries  -1   0
+127.0.0.1_29001 -> 10:08:38.903581 raft.go:387: Enviando peticion de voto a nodo  2  con mandato  2  y entries  -1   0
+127.0.0.1_29001 -> 10:08:38.904293 raft.go:540: Respuesta de nodo  1  a la petición de voto:  &{2 true}
+127.0.0.1_29001 -> 10:08:38.904303 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:38.954724 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:38.954783 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:39.006759 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:39.006821 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:39.058712 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:39.058765 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:39.109640 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:39.109679 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:39.161100 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:39.161146 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:39.211239 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:39.211298 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:39.262357 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:39.262396 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:39.313746 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:39.313791 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:39.364009 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:39.364068 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:39.415201 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:39.415262 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:39.466736 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:39.466771 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:39.518320 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:39.518376 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:39.569821 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:39.569890 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:39.620551 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:39.620613 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:39.672062 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:39.672107 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:39.722205 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:39.722280 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:39.773194 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:39.773254 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:39.824843 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:39.824883 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:39.875966 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:39.876005 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:39.927068 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:39.927109 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:39.978558 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:39.978893 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:40.030119 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:40.030154 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:40.081014 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:40.081047 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:40.132376 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:40.132472 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:40.183496 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:40.183532 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:40.234332 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:40.234366 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:40.285897 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:40.286004 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:40.337077 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:40.337143 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:40.388026 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:40.388138 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:40.439216 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:40.439260 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:40.490118 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:40.490155 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:40.541175 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:40.541222 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:40.591512 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:40.591553 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:40.642545 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:40.642598 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:40.693021 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:40.693100 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:40.743755 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:40.743796 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:40.795586 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:40.795636 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:40.845894 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:40.845932 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:40.896126 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:40.896172 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:40.947083 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:40.947117 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:40.998385 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:40.998428 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:41.050039 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:41.050154 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:41.100343 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:41.100574 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:41.151610 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:41.151723 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:41.202723 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:41.202793 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:41.252951 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:41.253026 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:41.303742 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:41.303811 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:41.355354 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:41.355440 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:41.406622 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:41.406689 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:41.456912 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:41.456981 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:41.508118 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:41.508191 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:41.558446 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:41.558490 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:41.608865 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:41.608966 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:41.659155 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:41.659208 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:41.710445 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:41.710482 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:41.761040 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:41.761124 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:41.812047 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:41.812084 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:41.862247 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:41.862311 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:41.913217 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:41.913315 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:41.964329 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:41.964395 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:42.015721 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:42.015762 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:42.066782 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:42.066830 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:42.118305 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:42.118358 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:42.160361 raft.go:330: Recibida llamada SometerOperacionRaft(operacion:{ Operacion=  escribir  Clave=  x  Valor=  3  })
+127.0.0.1_29001 -> 10:08:42.160393 raft.go:273: Voy a meter la entrada al log:  
+127.0.0.1_29001 -> 10:08:42.160401 raft.go:275: Entrada metida:  
+127.0.0.1_29001 -> 10:08:42.168775 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:42.168814 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:42.219794 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:42.219869 raft.go:667: Operacion a aplicar:  {0 {escribir x 3}}
+127.0.0.1_29001 -> 10:08:42.219881 main.go:52: Main ha recibido la operación:  {0 {escribir x 3}}
+127.0.0.1_29001 -> 10:08:42.219887 main.go:59: Aplicando operacion:  {0 {escribir x ok}}
+127.0.0.1_29001 -> 10:08:42.219892 main.go:62: Respuesta enviada:  {0 {escribir x ok}}
+127.0.0.1_29001 -> 10:08:42.219896 main.go:64: Esperando siguiente operacion
+127.0.0.1_29001 -> 10:08:42.219900 raft.go:670: Operacion a aplicada:  {0 {escribir x ok}}
+127.0.0.1_29001 -> 10:08:42.219906 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:42.220092 raft.go:282: Ahora el valor a devolver es:  ok
+127.0.0.1_29001 -> 10:08:42.223072 raft.go:330: Recibida llamada SometerOperacionRaft(operacion:{ Operacion=  escribir  Clave=  z  Valor=  4  })
+127.0.0.1_29001 -> 10:08:42.223096 raft.go:273: Voy a meter la entrada al log:  
+127.0.0.1_29001 -> 10:08:42.223100 raft.go:275: Entrada metida:  
+127.0.0.1_29001 -> 10:08:42.223222 raft.go:330: Recibida llamada SometerOperacionRaft(operacion:{ Operacion=  escribir  Clave=  y  Valor=  1  })
+127.0.0.1_29001 -> 10:08:42.223229 raft.go:273: Voy a meter la entrada al log:  
+127.0.0.1_29001 -> 10:08:42.223234 raft.go:275: Entrada metida:  
+127.0.0.1_29001 -> 10:08:42.223279 raft.go:330: Recibida llamada SometerOperacionRaft(operacion:{ Operacion=  leer  Clave=  y  Valor=    })
+127.0.0.1_29001 -> 10:08:42.223283 raft.go:273: Voy a meter la entrada al log:  
+127.0.0.1_29001 -> 10:08:42.223287 raft.go:275: Entrada metida:  
+127.0.0.1_29001 -> 10:08:42.223344 raft.go:330: Recibida llamada SometerOperacionRaft(operacion:{ Operacion=  leer  Clave=  y  Valor=    })
+127.0.0.1_29001 -> 10:08:42.223349 raft.go:273: Voy a meter la entrada al log:  
+127.0.0.1_29001 -> 10:08:42.223354 raft.go:275: Entrada metida:  
+127.0.0.1_29001 -> 10:08:42.224377 raft.go:330: Recibida llamada SometerOperacionRaft(operacion:{ Operacion=  escribir  Clave=  y  Valor=  9  })
+127.0.0.1_29001 -> 10:08:42.224399 raft.go:273: Voy a meter la entrada al log:  
+127.0.0.1_29001 -> 10:08:42.224404 raft.go:275: Entrada metida:  
+127.0.0.1_29001 -> 10:08:42.271616 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:42.271656 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:42.322306 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:42.322347 raft.go:667: Operacion a aplicar:  {1 {escribir z 4}}
+127.0.0.1_29001 -> 10:08:42.322355 main.go:52: Main ha recibido la operación:  {1 {escribir z 4}}
+127.0.0.1_29001 -> 10:08:42.322361 main.go:59: Aplicando operacion:  {1 {escribir z ok}}
+127.0.0.1_29001 -> 10:08:42.322365 main.go:62: Respuesta enviada:  {1 {escribir z ok}}
+127.0.0.1_29001 -> 10:08:42.322370 main.go:64: Esperando siguiente operacion
+127.0.0.1_29001 -> 10:08:42.322375 raft.go:670: Operacion a aplicada:  {1 {escribir z ok}}
+127.0.0.1_29001 -> 10:08:42.322380 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:42.322528 raft.go:282: Ahora el valor a devolver es:  ok
+127.0.0.1_29001 -> 10:08:42.373728 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:42.373793 raft.go:667: Operacion a aplicar:  {2 {escribir y 1}}
+127.0.0.1_29001 -> 10:08:42.373801 main.go:52: Main ha recibido la operación:  {2 {escribir y 1}}
+127.0.0.1_29001 -> 10:08:42.373807 main.go:59: Aplicando operacion:  {2 {escribir y ok}}
+127.0.0.1_29001 -> 10:08:42.373811 main.go:62: Respuesta enviada:  {2 {escribir y ok}}
+127.0.0.1_29001 -> 10:08:42.373815 main.go:64: Esperando siguiente operacion
+127.0.0.1_29001 -> 10:08:42.373820 raft.go:670: Operacion a aplicada:  {2 {escribir y ok}}
+127.0.0.1_29001 -> 10:08:42.373825 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:42.373971 raft.go:282: Ahora el valor a devolver es:  ok
+127.0.0.1_29001 -> 10:08:42.427491 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:42.427540 raft.go:667: Operacion a aplicar:  {3 {leer y }}
+127.0.0.1_29001 -> 10:08:42.427551 main.go:52: Main ha recibido la operación:  {3 {leer y }}
+127.0.0.1_29001 -> 10:08:42.427559 main.go:59: Aplicando operacion:  {3 {leer y 1}}
+127.0.0.1_29001 -> 10:08:42.427565 main.go:62: Respuesta enviada:  {3 {leer y 1}}
+127.0.0.1_29001 -> 10:08:42.427571 main.go:64: Esperando siguiente operacion
+127.0.0.1_29001 -> 10:08:42.427577 raft.go:670: Operacion a aplicada:  {3 {leer y 1}}
+127.0.0.1_29001 -> 10:08:42.427584 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:42.427765 raft.go:282: Ahora el valor a devolver es:  1
+127.0.0.1_29001 -> 10:08:42.478036 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:42.478078 raft.go:667: Operacion a aplicar:  {4 {leer y }}
+127.0.0.1_29001 -> 10:08:42.478087 main.go:52: Main ha recibido la operación:  {4 {leer y }}
+127.0.0.1_29001 -> 10:08:42.478093 main.go:59: Aplicando operacion:  {4 {leer y 1}}
+127.0.0.1_29001 -> 10:08:42.478098 main.go:62: Respuesta enviada:  {4 {leer y 1}}
+127.0.0.1_29001 -> 10:08:42.478102 main.go:64: Esperando siguiente operacion
+127.0.0.1_29001 -> 10:08:42.478108 raft.go:670: Operacion a aplicada:  {4 {leer y 1}}
+127.0.0.1_29001 -> 10:08:42.478113 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:42.478308 raft.go:282: Ahora el valor a devolver es:  1
+127.0.0.1_29001 -> 10:08:42.528180 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:42.528221 raft.go:667: Operacion a aplicar:  {5 {escribir y 9}}
+127.0.0.1_29001 -> 10:08:42.528229 main.go:52: Main ha recibido la operación:  {5 {escribir y 9}}
+127.0.0.1_29001 -> 10:08:42.528235 main.go:59: Aplicando operacion:  {5 {escribir y ok}}
+127.0.0.1_29001 -> 10:08:42.528240 main.go:62: Respuesta enviada:  {5 {escribir y ok}}
+127.0.0.1_29001 -> 10:08:42.528244 main.go:64: Esperando siguiente operacion
+127.0.0.1_29001 -> 10:08:42.528248 raft.go:670: Operacion a aplicada:  {5 {escribir y ok}}
+127.0.0.1_29001 -> 10:08:42.528253 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:42.528388 raft.go:282: Ahora el valor a devolver es:  ok
+127.0.0.1_29001 -> 10:08:42.579198 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:42.579231 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:42.630293 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:42.630356 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:42.680919 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:42.681096 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:42.731668 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:42.731736 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:42.782132 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:42.782227 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:42.832978 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:42.833041 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:42.883276 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:42.883345 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:42.933697 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:42.933794 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:42.985191 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:42.985236 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:43.036787 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:43.036832 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:43.088164 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:43.088218 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:43.139370 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:43.139414 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:43.189749 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:43.189812 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:43.240068 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:43.240108 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:43.290993 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:43.291032 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:43.342517 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:43.342555 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:43.393472 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:43.393517 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:43.444774 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:43.444820 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:43.496283 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:43.496320 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:43.547697 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:43.547903 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:43.598172 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:43.598254 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:43.648654 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:43.648691 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:43.699586 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:43.699641 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:43.750893 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:43.750926 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:43.801527 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:43.801615 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:43.851907 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:43.852020 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:43.903143 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:43.903379 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:43.954659 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:43.954711 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:44.005264 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:44.005302 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:44.056094 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:44.056149 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:44.106235 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:44.106368 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:44.159472 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:44.159515 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:44.213519 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:44.213554 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:44.263718 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:44.263761 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:44.314552 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:44.314592 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:44.366005 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:44.366067 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:44.416394 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:44.416456 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:44.467775 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:44.467816 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:44.519020 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:44.519057 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:44.569141 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:44.569205 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:44.621091 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:44.621155 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:44.675141 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:44.675179 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:44.725326 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:44.725362 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:44.783243 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:44.783279 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:44.834760 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:44.834802 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:44.886262 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:44.886315 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:44.936358 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:44.936415 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:44.987584 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:44.987627 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:45.038613 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:45.038657 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:45.088780 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:45.088895 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:45.139123 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:45.139190 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:45.190599 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:45.190639 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:45.241565 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:45.241605 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:45.293174 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:45.293214 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:45.344449 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:45.344489 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:45.395487 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:45.396027 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:45.446225 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:45.446362 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:45.497779 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:45.497840 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:45.548394 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:45.548485 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:45.599027 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:45.599065 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:45.650349 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:45.650416 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:45.701784 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:45.701855 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:45.753286 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:45.753350 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:45.803516 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:45.803565 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:45.855060 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:45.855125 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:45.905294 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:45.905462 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:45.955667 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:45.955720 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:46.007143 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:46.007203 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:46.057317 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:46.057367 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:46.118596 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:46.118638 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:46.169131 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:46.169176 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:46.219309 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:46.219385 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:46.270285 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:46.270323 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:46.321458 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:46.321532 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:46.372338 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:46.372444 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:46.422611 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:46.422709 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:46.473999 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:46.474043 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:46.524518 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:46.524579 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:46.575598 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:46.575631 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:46.627144 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:46.627211 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:46.680536 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:46.680589 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:46.730850 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:46.730927 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:46.782506 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:46.782624 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:46.832755 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:46.832820 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:46.883110 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:46.883172 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:46.934437 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:46.934611 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:46.986055 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:46.986096 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:47.037444 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:47.037511 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:47.088789 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:47.088868 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:47.138991 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:47.139038 raft.go:654: Soy un leader
+127.0.0.1_29001 -> 10:08:47.192330 raft.go:663: TimeOut leader
+127.0.0.1_29001 -> 10:08:47.192364 raft.go:654: Soy un leader
